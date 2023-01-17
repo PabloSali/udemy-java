@@ -1,4 +1,4 @@
-package FirstSteps;
+package UdemyLessonExercises;
 
 public class HelloWorld {
     // Udemy 14, Challenge 1

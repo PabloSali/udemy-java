@@ -1,4 +1,4 @@
-package FirstSteps;
+package UdemyLessonExercises;
 
 public class Variables {
     public static void main(String[] args) {

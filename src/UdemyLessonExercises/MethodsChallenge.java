@@ -1,4 +1,4 @@
-package Section5;
+package UdemyLessonExercises;
 
 public class MethodsChallenge {
     public static void main(String[] args) {
