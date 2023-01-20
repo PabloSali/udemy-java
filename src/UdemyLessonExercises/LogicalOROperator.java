@@ -1,4 +1,4 @@
-package Basics;
+package UdemyLessonExercises;
 
 public class LogicalOROperator {
     public static void main(String[] args) {
